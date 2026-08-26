@@ -15,4 +15,4 @@ git commands are :
 4) unmodified : unchanged (after commiting)
 3. git add  or git add . -> . adds all the files at once  -> adds new or changed files in our working directory 
 4. git commit  - its the record of change 
-5. git push origin 
+5. git push origin main : upload local repo content to remote repo
