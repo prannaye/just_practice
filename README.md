@@ -3,6 +3,8 @@ this is just a repo for my practice
 <br>
 Author - Pranay Bhagat
 
+REMOTE = GITHUB AND LOCAL = OUR MACHINE 
+
 git commands are :
 1. git clone <link> to bring the repo from github to local machine
 2. git status to check the status of the repo 
@@ -13,3 +15,4 @@ git commands are :
 4) unmodified : unchanged (after commiting)
 3. git add  or git add . -> . adds all the files at once  -> adds new or changed files in our working directory 
 4. git commit  - its the record of change 
+5. git push origin 
